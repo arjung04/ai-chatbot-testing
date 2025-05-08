@@ -1,0 +1,376 @@
+Test ID,Question,Expected Output,ChatGPT Output,DeepSeek Output,ChatGPT Result,DeepSeek Result,ChatGPT Similarity,DeepSeek Similarity
+1,What is the most popular food item in France?,Bread specifically the baguette.,"It is difficult to pinpoint a single most popular food item in France, as French cuisine is incredibly diverse and rich in flavors. However, some of the most iconic and beloved French dishes include baguettes, croissants, cheese, wine, foie gras, escargot, coq au vin, ratatouille, and crème brûlée.","The most popular and iconic food item in France is **baguette**. This traditional French bread is a staple in daily life, enjoyed by people of all ages. Its crispy crust and soft interior make it perfect for sandwiches, dipping in soups, or simply eating with butter and jam.
+
+Other highly popular French foods include:
+- **Croissants** (flaky, buttery pastries, often eaten for breakfast)
+- **Cheese** (especially varieties like Camembert, Brie, and Roquefort)
+- **Crêpes** (thin pancakes, sweet or savory)
+- **Quiche Lorraine** (savory tart with eggs, cream, and bacon)
+- **Ratatouille** (vegetable stew from Provence)
+- **Steak-Frites** (steak with French fries)
+- **Coq au Vin** (chicken braised in red wine)
+
+However, the **baguette** remains the most universally consumed and symbolic food in France, with millions sold daily across the country. In 2022, UNESCO even recognized the baguette as an **Intangible Cultural Heritage of Humanity**, highlighting its cultural importance.",Fail,Pass,0.2167,0.3240
+2,How are French people known to be?,French people are often described as stylish and elegant but can also be perceived as private and sometimes rude. They are known for valuing intellectual debate and openly protesting.,"French people are often known for their strong sense of national pride, love of good food and wine, and their cultural sophistication and appreciation for the arts. They are also often perceived as being fashionable and stylish, with a reputation for being somewhat reserved or formal in social interactions. Additionally, French people are known for their love of debate and discussion, and can be seen as both passionate and opinionated.","French people are often associated with certain cultural stereotypes and characteristics, though it's important to remember that these are generalizations and individuals vary widely. Here are some common perceptions:
+
+### **Positive Stereotypes:**  
+1. **Sophisticated & Stylish** – France is known for its fashion (Paris as the ""fashion capital""), elegance, and attention to aesthetics.  
+2. **Passionate & Romantic** – French culture is linked to love, art, and expressive emotions (e.g., ""City of Love"" Paris).  
+3. **Cultured & Intellectual** – France has a strong literary, philosophical, and artistic tradition (e.g., Descartes, Sartre, Proust).  
+4. **Gourmet & Food-Lovers** – French cuisine is world-renowned, and meals are often seen as social, leisurely experiences.  
+5. **Proud of Their Language & Heritage** – Many French people take pride in their history, language, and cultural influence.  
+
+### **Negative Stereotypes (or Misconceptions):**  
+1. **Rude or Cold** – Some foreigners perceive Parisians as abrupt, especially if visitors don’t speak French.  
+2. **Stubborn or Resistant to Change** – France has a reputation for strikes, protests, and preserving traditions (e.g., resistance to English words).  
+3. **Smokers & Café Dwellers** – While smoking has declined, the café culture remains strong.  
+4. **Bureaucratic** – French administration is often seen as slow and complex.  
+
+### **Reality Check:**  
+- **Regional Differences:** Parisians may seem more hurried, while people in rural areas are often seen as friendlier.  
+- **Hospitality:** Many French people are warm and welcoming once a connection is made.  
+- **Diverse Society:** France is multicultural, with influences from Africa, the Caribbean, and beyond.  
+
+Would you like insights on a specific aspect of French culture?",Pass,Fail,0.3109,0.2536
+3,What religions are practiced in France and what is the most popular one?,Catholic Christian Islam Protestant Christian and Judaism. Catholic Christian is the most popular religion practiced in France.,"The main religion practiced in France is Christianity, with the majority of the population identifying as Catholic. However, there is also a significant Muslim population in France, as well as smaller numbers of Protestants, Jews, Buddhists, and Hindus. Overall, Catholicism is the most popular religion in France.","France is a secular country with a diverse religious landscape. The most widely practiced religion is **Christianity**, particularly **Roman Catholicism**, although adherence has declined in recent decades. Here’s an overview of the major religions in France:
+
+### **Major Religions in France:**
+1. **Christianity (Catholicism, Protestantism, Orthodoxy)**  
+   - **Catholicism** (41% of the population, though only ~5% attend Mass regularly)  
+   - **Protestantism** (~2%, including Lutherans, Calvinists, and Evangelicals)  
+   - **Orthodox Christianity** (~1%, mainly among immigrant communities)  
+
+2. **Islam** (~8–10% of the population, mostly Sunni Muslims of North African descent)  
+
+3. **Judaism** (~1%, one of Europe’s largest Jewish communities)  
+
+4. **Buddhism** (~0.5–1%, growing due to immigrant and convert communities)  
+
+5. **Other Religions & Non-Religious**  
+   - **Hinduism** (~0.2%, mainly among Indian and Tamil communities)  
+   - **Sikhism** (small but visible communities)  
+   - **Atheism/Agnosticism/Secularism** (~40% of French people identify as non-religious)  
+
+### **Most Popular Religion:**
+- **Catholicism** remains the largest religious affiliation, but France is one of the most secular countries in Europe, with a strong tradition of **laïcité** (secularism).  
+
+Would you like details on any specific religious group in France?",Pass,Pass,0.5020,0.4046
+4,What is the government structure of France?,France has a unitary semi-presidential system.,"France is a unitary semi-presidential republic with a multi-party system. The President of France is the head of state and is elected by popular vote for a five-year term. The President appoints the Prime Minister, who is the head of government and is responsible for running the country on a day-to-day basis.
+
+The French Parliament is bicameral, consisting of the National Assembly (lower house) and the Senate (upper house). Members of the National Assembly are elected by popular vote for a five-year term, while Senators are elected by an electoral college for a six-year term.
+
+The French government is divided into three branches: the executive, legislative, and judicial. The executive branch is headed by the President and includes the Prime Minister and the Council of Ministers. The legislative branch is responsible for making laws and is comprised of the National Assembly and the Senate. The judicial branch is independent of the other branches and is responsible for interpreting and enforcing laws.
+
+Overall, the government structure of France is designed to ensure a system of checks and balances to prevent the concentration of power in any one branch or individual.","France is a **unitary semi-presidential republic** with a democratic government structure. Its political system is defined by the **Fifth Republic Constitution (1958)**, which established a strong executive branch. Here’s an overview of France’s government structure:
+
+### **1. Executive Branch**
+- **President of the Republic (Président de la République)**  
+  - Directly elected for a 5-year term (since 2002, previously 7 years).  
+  - Serves as head of state, commander-in-chief of the armed forces.  
+  - Appoints the Prime Minister and can dissolve the National Assembly.  
+  - Oversees foreign policy and national defense.  
+  - Can call referendums and invoke emergency powers (Article 16).  
+
+- **Prime Minister (Premier ministre)**  
+  - Appointed by the President but must have the confidence of Parliament.  
+  - Leads the government, implements laws, and manages domestic policy.  
+  - Can be dismissed by the President or through a parliamentary no-confidence vote.  
+
+- **Council of Ministers (Conseil des ministres)**  
+  - Cabinet members appointed by the President on the PM’s recommendation.  
+  - Responsible for national administration (e.g., finance, education, defense).  
+
+### **2. Legislative Branch (Parliament)**
+France has a **bicameral** legislature:  
+
+- **National Assembly (Assemblée nationale)**  
+  - Lower house, directly elected for 5 years.  
+  - 577 deputies (députés) representing constituencies.  
+  - Can pass laws, amend the constitution (with Senate approval), and overthrow the government via a **motion of censure** (no-confidence vote).  
+
+- **Senate (Sénat)**  
+  - Upper house, indirectly elected by local officials (grands électeurs).  
+  - 348 senators serving 6-year terms (half renewed every 3 years).  
+  - Reviews and amends legislation but has less power than the Assembly.  
+
+- **Legislative Process**  
+  - Bills can be introduced by the government (**projets de loi**) or Parliament (**propositions de loi**).  
+  - Both chambers must agree; if not, the National Assembly has the final say.  
+
+### **3. Judiciary Branch**
+France has an independent judiciary with three main systems:  
+
+- **Ordinary Courts** (civil & criminal cases):  
+  - **Court of Cassation** (highest appeals court).  
+  - **Courts of Appeal, Tribunal Judiciaire, etc.**  
+
+- **Administrative Courts** (disputes involving the government):  
+  - **Council of State (Conseil d’État)** – highest administrative court.  
+
+- **Constitutional Council (Conseil constitutionnel)**  
+  - 9 members appointed for 9 years (3 each by President, Senate, Assembly).  
+  - Reviews laws for constitutionality before enactment.  
+
+### **4. Local Government**
+France is a **unitary state**, but power is decentralized:  
+- **Regions (Régions)** – 13 mainland + 5 overseas (e.g., Île-de-France, Provence-Alpes-Côte d'Azur).  
+- **Departments (Départements)** – 96 in mainland France + 5 overseas.  
+- **Communes (Municipalities)** – Over 35,000, led by mayors.  
+
+### **5. Key Features**
+- **Semi-Presidential System**: Power shared between President and PM (unlike pure presidential or parliamentary systems).  
+- **Strong Executive**: The President has significant authority but depends on parliamentary support.  
+- **Multi-Party System**: Major parties include Renaissance (centrist), National Rally (far-right), La France Insoumise (far-left), and traditional parties like Les Républicains (center-right) and the Socialist Party.  
+
+Would you like details on elections, political parties, or recent reforms?",Pass,Pass,0.4974,0.4873
+5,What are the French customs when greeting someone?,"Saying ""Bonjour"" or ""Bonsoir"" and depending on the relationship a ""la bise"" or kiss on both cheeks.","1. In France, it is customary to greet someone with a handshake. Men typically shake hands with both men and women, while women may kiss each other on the cheek or offer a handshake.
+
+2. When greeting someone, it is polite to use the formal ""vous"" rather than the informal ""tu"" unless the other person specifically invites you to use the informal form.
+
+3. The common greeting phrases in French are ""bonjour"" (good morning/afternoon), ""bonsoir"" (good evening), and ""salut"" (hi/hey).
+
+4. When entering a room or meeting someone for the first time, it is polite to make eye contact, smile, and offer a friendly greeting.
+
+5. It is common for French people to exchange cheek kisses (la bise) with friends and family members as a form of greeting. The number of kisses may vary depending on the region, but two kisses on the cheek is the most common.
+
+6. It is customary to address someone by their title and last name (e.g. Monsieur/Madame + last name) until they invite you to use their first name.
+
+7. When leaving a social gathering or saying goodbye to someone, it is polite to offer a farewell greeting such as ""au revoir"" (goodbye) or ""à bientôt"" (see you soon).
+
+Overall, French greetings are characterized by politeness, warmth, and respect for social norms.","In France, greetings are an important part of social etiquette and vary depending on the level of formality and familiarity. Here are the key customs:
+
+### **1. Verbal Greetings**
+- **""Bonjour"" (Good day)** – Used in most situations, especially during the day. Always say *Bonjour* first when entering a shop, meeting someone, or starting a conversation.
+- **""Bonsoir"" (Good evening)** – Used in the evening.
+- **""Salut"" (Hi/Bye, informal)** – Used among friends, family, or peers. Avoid using it with strangers or in formal settings.
+
+### **2. Physical Greetings**
+- **La Bise (Cheek Kisses)** – Common among friends, family, and sometimes colleagues. The number of kisses varies by region (usually 2, but can be 1, 3, or even 4 in some areas). Men may also exchange *la bise* with female friends, while men often shake hands with each other unless they are close.
+- **Handshake** – Standard in professional settings or when meeting someone for the first time. Firm but not overly strong.
+
+### **3. Formality & Politeness**
+- **Using ""Monsieur"" (Sir), ""Madame"" (Ma’am), or ""Mademoiselle"" (Miss)** – Important in formal or unfamiliar situations (e.g., *""Bonjour, Madame""*).
+- **""Comment allez-vous?"" (How are you? – formal) / ""Ça va?"" (How’s it going? – informal)** – Often asked after the initial greeting.
+
+### **4. Other Customs**
+- **Eye contact** – Maintain polite eye contact during greetings.
+- **No hugs** – Hugging is less common than in some cultures and usually reserved for close friends or family.
+- **Wait for cues** – If unsure whether to kiss or shake hands, follow the other person’s lead.
+
+### **5. Leaving**
+- **""Au revoir"" (Goodbye)** – Standard when parting.
+- **""Bonne journée"" (Have a nice day) / ""Bonne soirée"" (Have a nice evening)** – Polite and commonly used.
+
+### **Regional Differences**
+- The number of *bises* varies (e.g., 2 in Paris, 3 in parts of the south, 4 in some areas).
+- In very formal or business settings, handshakes are more common than *la bise*.
+
+Would you like details on a specific situation (e.g., business vs. social)?",Pass,Pass,0.4590,0.4208
+6,What is French culture known for producing?,French culture is known for producing wines fashion and art.,"French culture is known for producing a wide range of cultural products, including:
+
+1. Fashion: France is considered one of the fashion capitals of the world, known for luxury brands such as Chanel, Dior, Louis Vuitton, and Givenchy.
+
+2. Cuisine: French cuisine is renowned for its gourmet dishes, fine wines, cheeses, pastries, and breads.
+
+3. Art: France has a rich artistic tradition, with famous artists such as Claude Monet, Edgar Degas, and Henri Matisse.
+
+4. Literature: French literature has produced iconic writers such as Victor Hugo, Gustave Flaubert, and Albert Camus.
+
+5. Film: France has a strong film industry, with directors such as François Truffaut, Jean-Luc Godard, and Agnès Varda making significant contributions to world cinema.
+
+6. Music: French music is diverse, with genres ranging from classical to pop, and artists such as Édith Piaf, Serge Gainsbourg, and Daft Punk gaining international acclaim.
+
+7. Philosophy: France has a long tradition of philosophical thought, with influential thinkers such as René Descartes, Jean-Paul Sartre, and Simone de Beauvoir.
+
+8. Architecture: France is known for its iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and the Palace of Versailles.
+
+Overall, French culture is celebrated for its sophistication, elegance, and creativity across various artistic disciplines.","French culture is renowned for producing a vast array of influential contributions across multiple fields. Here are some of the most notable:
+
+### **1. Art & Literature**  
+- **Art Movements**: Impressionism (Monet, Renoir), Post-Impressionism (Van Gogh, Cézanne), Cubism (Picasso, Braque), Surrealism (Dali, Magritte).  
+- **Famous Artists**: Claude Monet, Edgar Degas, Auguste Rodin, Henri Matisse.  
+- **Literature**: Victor Hugo (*Les Misérables*), Alexandre Dumas (*The Three Musketeers*), Albert Camus (*The Stranger*), Marcel Proust (*In Search of Lost Time*).  
+
+### **2. Fashion & Luxury**  
+- **Haute Couture**: Chanel, Dior, Yves Saint Laurent, Louis Vuitton, Hermès.  
+- **Perfume**: France is the perfume capital of the world (Chanel No. 5, Guerlain).  
+
+### **3. Cuisine & Wine**  
+- **Gastronomy**: French cuisine is UNESCO-listed (croissants, baguettes, coq au vin, boeuf bourguignon, escargot).  
+- **Cheese & Wine**: Over 1,000 types of cheese (Brie, Camembert, Roquefort) and world-famous wines (Bordeaux, Champagne, Burgundy).  
+
+### **4. Cinema & Philosophy**  
+- **Film**: The Lumière brothers pioneered cinema; New Wave directors like Godard and Truffaut revolutionized filmmaking.  
+- **Philosophy**: Descartes (""I think, therefore I am""), Rousseau, Voltaire, Foucault, Sartre.  
+
+### **5. Music & Dance**  
+- **Classical Music**: Debussy, Ravel, Bizet (*Carmen*).  
+- **Modern Music**: Édith Piaf, Daft Punk, Stromae.  
+- **Dance**: Ballet (Paris Opera Ballet), Can-Can, and contemporary dance.  
+
+### **6. Architecture & Design**  
+- **Landmarks**: Eiffel Tower, Notre-Dame, Louvre, Versailles.  
+- **Design**: Art Nouveau (Hector Guimard), Art Deco (Le Corbusier).  
+
+### **7. Science & Innovation**  
+- **Discoveries**: Pasteur (pasteurization), Marie Curie (radioactivity), Blaise Pascal (calculus).  
+
+### **8. Language & Diplomacy**  
+- French is a global language (spoken in 29 countries) and a key diplomatic language (UN, EU).  
+
+France’s cultural influence is vast, shaping global art, fashion, food, and intellectual thought for centuries. Would you like details on a specific aspect?",Pass,Pass,0.5240,0.4792
+7,What is the average income in France for the year 2022?,24330 Euros was the average income in 2022.,"As of 2022, the average income in France is approximately €39,500 per year.","In 2022, the **average net income** (after taxes and social contributions) in France was approximately **€2,340 per month** for a single person, according to data from INSEE (France's National Institute of Statistics and Economic Studies).  
+
+For **households**, the average disposable income was around **€3,200 per month** (depending on household composition).  
+
+### Key Details:  
+- **Gross salary (before taxes)**: Around **€3,100–€3,300 per month** for full-time employees.  
+- **Median net income**: About **€1,940 per month** (half of workers earn less, half earn more).  
+- **Minimum wage (SMIC)**: In 2022, the net minimum wage was **€1,329 per month** (for a 35-hour workweek).  
+
+Income levels vary by region, profession, and experience. Paris and other major cities tend to have higher wages, while rural areas may have lower averages.  
+
+Would you like a breakdown by profession or region?",Pass,Pass,0.8338,0.6990
+8,How many Catholic Churches are there in France?,There are about 45000 Catholic Churches in France.,"Error: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=None)","As of recent data, there are approximately **42,000 Catholic churches and chapels** in France. This includes:
+
+- **Cathedrals**: Around **100** (one per diocese).
+- **Parish churches**: Roughly **38,000**.
+- **Chapels and other religious buildings**: Several thousand more, including monastic chapels, pilgrimage sites, and private chapels.
+
+France has a deep Catholic heritage, and many of these churches are historic landmarks, some dating back to the Middle Ages. The number has declined slightly over time due to secularization, maintenance costs, and demographic shifts, but the Catholic Church remains a significant cultural and architectural presence in the country.
+
+For the most precise figures, the **French Bishops' Conference** (Conférence des Évêques de France) would be the authoritative source. Would you like details on specific regions or notable churches?",Fail,Pass,0.2618,0.6960
+9,What do French teens think about school rules?,French teenagers tend to be critical of strict dress codes and often question rules about religious attire in schools.,"Opinions on school rules can vary among French teens. Some may appreciate the structure and discipline that rules provide, as they believe it helps create a productive learning environment. Others may feel that school rules are too strict and restrictive, limiting their freedom and creativity. Some may also believe that certain rules are unnecessary or outdated, and may push back against them. Overall, attitudes towards school rules among French teens can be diverse and influenced by personal experiences and beliefs.","French teenagers generally have mixed feelings about school rules, with opinions varying based on individual experiences, school environments, and personal values. Here are some common perspectives:
+
+### **1. Frustration with Strictness**  
+Many French teens find certain school rules overly rigid, such as:  
+- **Uniforms/Dress Codes**: While most public schools don’t have uniforms, some enforce strict dress codes (e.g., banning crop tops, ripped jeans, or religious symbols like hijabs).  
+- **Phone Bans**: Since 2018, phones are prohibited in primary and middle schools, which some teens see as unnecessary.  
+- **Attendance & Punctuality**: Strict penalties for lateness or skipping class can feel harsh.  
+
+### **2. Disagreement with Authority**  
+Some students feel that rules are enforced inconsistently or unfairly, leading to resentment. Protests and strikes (like the *lycéen* movements) sometimes arise over disciplinary policies.  
+
+### **3. Acceptance of Necessary Structure**  
+Others acknowledge that rules help maintain order, especially in schools with discipline issues. Teens from stricter *lycées* (elite high schools) may see rules as part of academic rigor.  
+
+### **4. Push for More Freedom & Modernization**  
+Many teens wish schools would:  
+- Be more flexible with hairstyles, piercings, and self-expression.  
+- Allow more student input in rule-making.  
+- Update outdated policies (e.g., strict gender norms in dress codes).  
+
+### **5. Cultural Context**  
+France’s education system emphasizes *laïcité* (secularism) and discipline, which can clash with teens’ desires for individuality. Debates over religious symbols (like hijabs) in schools remain contentious.  
+
+### **Conclusion**  
+While some French teens accept school rules as part of the system, others push back against what they see as excessive control. Movements like student strikes (*grèves lycéennes*) show their willingness to challenge authority when they feel rules are unfair.  
+
+Would you like insights on a specific rule (e.g., phone bans, dress codes)?",Fail,Pass,0.0793,0.2093
+10,What are common French attitudes toward work-life balance?,French adults strongly prioritize maintaining a healthy work-life balance with clear separation between professional and personal time.,"Some common French attitudes toward work-life balance include:
+
+1. The belief that it is important to maintain a separation between work and personal life in order to achieve a healthy balance and avoid burnout.
+
+2. A preference for shorter work hours and longer vacation time, as compared to some other countries where longer work hours are more common.
+
+3. The idea that productivity and efficiency can be improved by taking breaks and prioritizing self-care.
+
+4. A focus on spending quality time with family and friends, as well as engaging in hobbies and leisure activities outside of work.
+
+5. A general skepticism towards the ""hustle culture"" and the idea that working long hours is necessary for success.
+
+6. The belief that work should not be the sole focus of one's life, and that personal fulfillment and well-being are just as important as professional success.","French attitudes toward work-life balance are generally shaped by cultural values, labor laws, and social norms that prioritize leisure, family time, and personal well-being. Here are some key aspects of how the French approach work-life balance:
+
+### 1. **Legal Protections & Shorter Work Hours**
+   - The **35-hour workweek** (established in 2000) is a cornerstone of French labor law, though some professionals work longer hours, especially in management or high-pressure industries.
+   - **Paid leave**: Employees get at least **5 weeks of paid vacation** per year, in addition to public holidays.
+   - **Strong labor rights**: Strict regulations on overtime, mandatory rest periods, and protections against after-hours work emails (the **""right to disconnect""** law since 2017).
+
+### 2. **Cultural Emphasis on Leisure & Family**
+   - The French value **personal time**, often prioritizing meals, vacations, and family over work.
+   - **Long lunch breaks** (often 1–2 hours) are common, seen as a time to relax rather than eat at a desk.
+   - Weekends and evenings are typically reserved for socializing, hobbies, or family.
+
+### 3. **Work as a Means, Not an Identity**
+   - Unlike some cultures where career defines self-worth, the French tend to view work as **just one part of life** rather than the central focus.
+   - Job titles and long hours are less glorified compared to countries like the U.S. or Japan.
+
+### 4. **Regional & Generational Differences**
+   - **Paris vs. the rest of France**: Parisians, especially in finance or tech, may work longer hours, while smaller cities and rural areas maintain a slower pace.
+   - **Younger generations** increasingly demand flexibility (remote work, four-day weeks) and reject the traditional ""always-on"" work culture.
+
+### 5. **Resistance to Overwork**
+   - **Strikes and protests** are common if work-life balance is threatened (e.g., protests against pension reforms).
+   - **Presenteeism** (staying late just to appear busy) is less valued than productivity during official hours.
+
+### 6. **Challenges & Exceptions**
+   - Some high-pressure sectors (consulting, law, startups) still demand long hours.
+   - Economic pressures and globalization have led to debates about whether France’s model is sustainable.
+
+### **Key Takeaway**  
+The French generally prioritize a **clear separation between work and personal life**, supported by laws and cultural norms. While not universal, this mindset contrasts sharply with more work-centric cultures, making France a leader in work-life balance—though not without occasional tensions.  
+
+Would you like insights on specific professions or comparisons with other countries?",Pass,Pass,0.5186,0.5573
+11,What is the significance of French cuisine in world culture?,French cuisine is recognized by UNESCO as an Intangible Cultural Heritage of Humanity and has influenced culinary practices worldwide.,"French cuisine holds a significant place in world culture for several reasons:
+
+1. Tradition and history: French cuisine has a rich culinary tradition that dates back centuries, with many iconic dishes and cooking techniques that have been passed down through generations. This history and tradition have helped to shape the global perception of French cuisine as refined and sophisticated.
+
+2. Influence on global gastronomy: French cuisine has had a major influence on the development of world gastronomy. Many of the cooking techniques, ingredients, and dishes that are now considered staples in international cuisine originated in France. French chefs and culinary experts have also played a key role in shaping the way food is prepared and presented around the world.
+
+3. Reputation for quality and excellence: French cuisine is renowned for its emphasis on quality ingredients, precise cooking techniques, and attention to detail. French chefs are known for their dedication to using fresh, seasonal produce and creating dishes that are not only delicious but also visually appealing. This commitment to excellence has helped French cuisine earn a reputation as one of the finest in the world.
+
+4. Culinary tourism: France is a major destination for food lovers and culinary tourists from around the world. The country's diverse regional cuisines, vibrant food markets, and world-class restaurants attract millions of visitors each year who come to experience the rich culinary offerings of the country.
+
+Overall, French cuisine's significance in world culture lies in its history, influence on global gastronomy, reputation for quality, and role in culinary tourism. It continues to be celebrated and cherished by food enthusiasts worldwide.","French cuisine holds immense significance in world culture, serving as a cornerstone of gastronomy and influencing culinary traditions globally. Here are some key reasons for its importance:
+
+### 1. **UNESCO Intangible Cultural Heritage**  
+   In 2010, UNESCO recognized the **""Gastronomic Meal of the French""** as an Intangible Cultural Heritage of Humanity, highlighting its role in social bonding, celebration, and the transmission of culinary traditions.
+
+### 2. **Foundation of Modern Haute Cuisine**  
+   French chefs like **Auguste Escoffier** codified classical techniques that form the basis of professional cooking worldwide. Concepts like **mise en place**, the **brigade system**, and **sauces (mother sauces)** are still taught in culinary schools globally.
+
+### 3. **Global Influence on Fine Dining**  
+   French restaurants set the standard for **fine dining**, with Michelin stars originating in France. Many of the world’s top chefs train in French techniques, even if they later innovate in fusion or modernist cuisine.
+
+### 4. **Regional Diversity & Artisanal Traditions**  
+   From **Provence’s ratatouille** to **Burgundy’s coq au vin**, France’s regional dishes showcase terroir (the influence of local geography and climate). French cheeses, wines, and bread (like the **baguette**, also UNESCO-listed) are revered worldwide.
+
+### 5. **Cultural Diplomacy & Soft Power**  
+   French cuisine has long been a tool of diplomacy—**Marie-Antoinette popularized the croissant** (originally Austrian), and today, French restaurants abroad act as cultural ambassadors. The term **""bon appétit""** is universally recognized.
+
+### 6. **Innovation & Evolution**  
+   While rooted in tradition, French cuisine continues to evolve. Nouvelle cuisine (1960s) emphasized lighter dishes, and contemporary chefs like **Alain Ducasse** blend sustainability with classic techniques.
+
+### 7. **Symbol of Lifestyle & Art de Vivre**  
+   The French approach to meals—**long, social, and wine-paired**—embodies a philosophy of savoring life. This contrasts with fast food culture and inspires movements like **slow food**.
+
+### **Conclusion**  
+French cuisine is more than food; it’s a cultural institution representing **craftsmanship, heritage, and the joy of shared experience**. Its techniques, rituals, and flavors continue to shape how the world eats, making it a timeless pillar of global culture.  
+
+**Fun fact:** The word ""restaurant"" comes from French, derived from *restaurer* (to restore), reflecting its role in nourishment and community.",Fail,Pass,0.1663,0.3670
+12,How important is proper grammar to French adults?,Proper grammar is very important to French adults and is considered a key marker of education intelligence and respect for the language.,"Proper grammar is generally considered very important to French adults. French is a language known for its complex grammar rules and structure, and using correct grammar is seen as a sign of education, intelligence, and respect for the language. French adults typically place a high value on speaking and writing correctly, and may be quick to correct others who make grammatical errors. Overall, proper grammar is considered a key aspect of communication and is highly valued in French society.","Proper grammar is **very important** to French adults, as it is closely tied to education, social status, and cultural identity. Here’s why:
+
+### 1. **Education & Professionalism**  
+   - The French education system places a strong emphasis on grammar, spelling, and linguistic precision. Mistakes (like *""faute d'orthographe""*) are often seen as a sign of poor education.  
+   - In professional settings (emails, reports, presentations), errors can undermine credibility. Many companies even use tools like *""correcteurs orthographiques""* (spell-checkers) to ensure perfection.
+
+### 2. **Social Perception**  
+   - Proper French is associated with intelligence and refinement. Mistakes (e.g., confusing *""à""* and *""a""* or misusing *""subjonctif""*) may lead to judgments about a person’s background or competence.  
+   - Social media debates over grammar are common, and public figures (politicians, journalists) are frequently criticized for errors.
+
+### 3. **Cultural Pride**  
+   - The French take pride in their language’s complexity and see it as part of their heritage. Institutions like the *Académie française* actively defend ""proper"" French against anglicisms or informal usage.  
+   - Literary culture (from Proust to contemporary novels) reinforces the value of eloquence and correctness.
+
+### 4. **Generational & Contextual Differences**  
+   - Older generations tend to be stricter about grammar, while younger people embrace informal digital communication (e.g., text shortcuts like *""pk""* for *""pourquoi""*).  
+   - In casual conversations (spoken French), minor errors are overlooked, but written French (even texts) often adheres to higher standards.
+
+### 5. **Exceptions & Evolving Norms**  
+   - Some argue that rigid grammar rules are elitist, and movements advocate for more inclusive language (e.g., gender-neutral *""iel""*).  
+   - However, these changes are hotly debated, showing how deeply grammar is tied to identity.
+
+### **Bottom Line:**  
+While spoken French can be flexible, **written grammar remains a marker of respect and sophistication**. A French adult might forgive a non-native speaker’s mistakes but will likely notice—and quietly judge—errors from fellow natives.  
+
+Would you like examples of common mistakes that French people notice?",Pass,Pass,0.7311,0.6313

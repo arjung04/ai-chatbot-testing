@@ -1,0 +1,12 @@
+# Sensitive information
+.env
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Project-specific
+test_results/
+*.log

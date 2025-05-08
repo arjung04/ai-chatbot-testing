@@ -1,0 +1,10 @@
+Metric,Value
+Total Tests,36
+Total Passes,56
+Total Fails,16
+ChatGPT Passes,26
+ChatGPT Fails,10
+ChatGPT Pass Rate (%),72.22
+DeepSeek Passes,30
+DeepSeek Fails,6
+DeepSeek Pass Rate (%),83.33

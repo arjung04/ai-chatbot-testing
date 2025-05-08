@@ -1,0 +1,355 @@
+Test ID,Question,Expected Output,ChatGPT Output,DeepSeek Output,ChatGPT Result,DeepSeek Result,ChatGPT Similarity,DeepSeek Similarity
+1,In Swedish culture is work divided among the family?,True,"In Swedish culture, work is generally not divided among the family in a traditional sense. In Sweden, there is a strong emphasis on gender equality and both men and women are encouraged to participate in the workforce and share responsibilities both at home and in the workplace. This means that household chores and childcare are often shared between partners, rather than being solely the responsibility of one person. Additionally, Sweden has a strong welfare system that supports working parents with access to affordable childcare and parental leave, which allows both parents to balance work and family responsibilities.","In Swedish culture, the division of work within the family is generally guided by principles of **gender equality, shared responsibility, and work-life balance**. Sweden is known for its progressive social policies, which encourage both parents to participate in both paid work and domestic duties. Here are some key aspects:
+
+### **1. Gender Equality in Household Chores**  
+- Sweden has one of the highest rates of gender equality in the world, and this extends to household responsibilities.  
+- Both partners are expected to share chores like cooking, cleaning, and childcare.  
+- The concept of **""lagom""** (balance/moderation) applies—neither partner should be overburdened.  
+
+### **2. Parental Leave Policies**  
+- Sweden has one of the most generous **parental leave** systems (480 days per child, with 90 days reserved for each parent).  
+- This encourages **fathers to take an active role in childcare**, reducing the traditional division where mothers handle most caregiving.  
+
+### **3. Dual-Income Households**  
+- Most Swedish families rely on **two incomes**, as the cost of living is high and individual taxation is progressive.  
+- The **welfare state** (subsidized daycare, free education) supports this model by making it easier for both parents to work.  
+
+### **4. Children’s Independence**  
+- Swedish parenting emphasizes **self-sufficiency**; children are encouraged to help with age-appropriate tasks.  
+- Schools and society promote **equality**, so boys and girls are raised with similar expectations regarding chores.  
+
+### **5. Traditional vs. Modern Roles**  
+- While older generations may have had more traditional divisions (men working outside, women handling home duties), younger Swedes strongly favor **egalitarian relationships**.  
+- Single-parent households are also common, with the state providing support.  
+
+### **Conclusion**  
+Swedish family culture promotes **shared responsibility** in both work and home life, supported by strong social policies. While individual families may vary, the norm is an **equal division of labor** between partners.  
+
+Would you like insights on specific aspects, like childcare or elderly care in Sweden?",Fail,Fail,0.1911,0.1664
+2,What music forms are Swedish people known for?,Ballads and kulning,"Swedish people are known for various music forms, including pop music, electronic music, and indie music. Additionally, Sweden has a strong tradition of folk music, particularly traditional folk songs and dances. Swedish artists and bands have also made significant contributions to the genres of metal, rock, and hip-hop.","Sweden has made significant contributions to various music genres, both traditional and modern. Here are some music forms and genres that Swedish people are known for:
+
+### **Traditional & Folk Music**
+1. **Swedish Folk Music (Folkmusik)** – Features traditional instruments like the **nyckelharpa** (keyed fiddle), **violin**, and **accordion**. Often includes polskas, waltzes, and other dance tunes.
+2. **Kulning** – A haunting, high-pitched herding call used historically by women to call livestock, now often performed in folk music.
+
+### **Modern & Popular Music**
+3. **Pop Music** – Sweden is one of the world’s biggest exporters of pop music, with acts like:
+   - **ABBA** (global pop icons)
+   - **Ace of Base**
+   - **Robyn**
+   - **Tove Lo**
+   - **Zara Larsson**
+   - **Danny Saucedo**
+4. **Europop & Dance Music** – Many Swedish producers and songwriters have shaped Europop and EDM, including:
+   - **Max Martin** (producer for Britney Spears, Taylor Swift, The Weeknd)
+   - **Swedish House Mafia** (EDM/house)
+   - **Avicii** (electronic dance music pioneer)
+5. **Metal & Rock** – Sweden has a strong rock and metal scene:
+   - **Ghost** (occult rock/metal)
+   - **Opeth** (progressive metal)
+   - **In Flames** (melodic death metal)
+   - **Sabaton** (power metal, historical themes)
+   - **Europe** (famous for ""The Final Countdown"")
+6. **Indie & Alternative** – Bands like:
+   - **The Cardigans**
+   - **Peter Bjorn and John** (""Young Folks"")
+   - **First Aid Kit** (folk-pop duo)
+   - **Lykke Li** (indie pop)
+7. **Hip-Hop & Rap** – Growing scene with artists like:
+   - **Yung Lean** (cloud rap pioneer)
+   - **Silvana Imam** (feminist rap)
+   - **Dree Low** (Swedish drill)
+
+### **Electronic & Experimental**
+8. **Synthpop & Electronic** – Sweden has a strong synth tradition:
+   - **The Knife** (electronic/experimental)
+   - **Roxette** (pop-rock with synth elements)
+   - **Icona Pop** (""I Love It"")
+9. **Jazz** – Sweden has a thriving jazz scene, with artists like **Esbjörn Svensson Trio (EST)** gaining international acclaim.
+
+### **Classical & Choral Music**
+10. **Choral Music** – Sweden has a strong choral tradition, with groups like **Orphei Drängar**.
+11. **Classical Composers** – Notable figures include **Wilhelm Stenhammar** and **Hugo Alfvén**.
+
+Sweden’s music industry is highly influential, particularly in pop production, thanks to its strong songwriting culture and government-supported music education. Whether through folk traditions, global pop hits, or heavy metal, Swedish music has left a lasting mark worldwide.",Fail,Pass,0.1486,0.2045
+3,What is the concept of Lagom?,Lagom is a Swedish concept embodying moderation and contentment that permeates various aspects of Swedish culture from the welfare system to architecture and even cuisine. It encourages avoiding risks and overindulgence.,"Lagom is a Swedish word that roughly translates to ""just the right amount"" or ""not too little, not too much, but just enough."" It is a concept of moderation, balance, and harmony in all aspects of life, including work, relationships, and lifestyle. Lagom is about finding a sustainable and healthy middle ground, avoiding extremes and excesses, and living in a way that is simple, balanced, and fulfilling. It is often associated with the Swedish culture and way of life, emphasizing the importance of contentment, equality, and sustainability.","**Lagom** is a Swedish and Scandinavian concept that translates roughly to *""just the right amount""* or *""not too little, not too much.""* It embodies the idea of balance, moderation, and sustainability in all aspects of life—work, consumption, relationships, and well-being.
+
+### **Key Aspects of Lagom:**
+1. **Moderation & Balance**  
+   - Avoiding excess and extremes in favor of a harmonious middle ground.  
+   - Example: Eating until satisfied, not stuffed; working efficiently without burnout.
+
+2. **Sustainability & Mindful Consumption**  
+   - Encourages eco-friendly living by using only what is necessary.  
+   - Example: Buying quality items that last instead of overconsuming.
+
+3. **Equality & Fairness**  
+   - Rooted in Swedish culture, it promotes fairness in society (e.g., work-life balance, social welfare).  
+   - Example: The Swedish *""fika""* (coffee break) fosters workplace equality and relaxation.
+
+4. **Simplicity & Contentment**  
+   - Focuses on appreciating what you have rather than chasing excess.  
+   - Example: A minimalist home that feels cozy (*""lagom är bäst""*—""lagom is best"").
+
+### **Lagom vs. Hygge (Danish Concept)**  
+While *hygge* emphasizes coziness and comfort, *lagom* is about finding the *optimal* level in everything—neither too much nor too little.
+
+### **Application in Daily Life:**  
+- **Work:** Avoid overworking; prioritize efficiency.  
+- **Home:** Declutter and decorate mindfully.  
+- **Environment:** Reduce waste, recycle, and consume responsibly.  
+
+Lagom reflects a philosophy of **sustainable happiness**, where satisfaction comes from balance rather than excess. It’s a key reason Sweden ranks high in quality-of-life and sustainability indexes.  
+
+Would you like tips on incorporating *lagom* into your lifestyle? 😊",Pass,Pass,0.3036,0.2967
+4,Do the Swedish prefer to drink on the weekends than drinking daily?,It is more typical for Swedes to go all-out drinking on the weekends. This could stem from another Swedish tradition lördagsgodis (Saturday's Candy).,"There is no definitive answer to this question as drinking habits vary among individuals in Sweden. However, it is common for Swedes to enjoy a drink or two on the weekends, especially when socializing with friends or attending parties. Drinking daily is less common, as many Swedes value a healthy lifestyle and moderation in their alcohol consumption.","In Sweden, drinking culture tends to be more focused on weekends and special occasions rather than daily consumption. This pattern is influenced by several factors:
+
+1. **Systembolaget Monopoly**: Sweden’s state-run alcohol retailer, Systembolaget, has restricted hours and promotes responsible drinking, which discourages impulsive or daily purchases.  
+2. **""Helgdagsfylla"" Tradition**: The term translates to ""holiday binge drinking,"" reflecting a cultural tendency to drink more heavily on weekends or celebrations rather than moderately throughout the week.  
+3. **Work-Life Balance**: Swedes generally prioritize productivity during the week, reserving alcohol for relaxation on Fridays and Saturdays (e.g., ""fredagsmys"" or ""cozy Friday"").  
+4. **Social Norms**: Moderate daily drinking is less common than in some other European countries (like France or Italy), while weekend gatherings often include alcohol.  
+
+However, individual habits vary. Younger adults might drink more sporadically (e.g., weekend parties), while some older generations may enjoy a daily glass of wine. Overall, Sweden’s drinking culture leans toward concentrated weekend consumption, supported by policies and social norms discouraging excess.  
+
+Would you like insights into specific demographics or comparisons with other Nordic countries?",Fail,Fail,0.1399,0.1820
+5,If I were to take a coffee/tea break in Sweden would drinking the beverage be sufficient enough for the break?,"Coffee or tea break should be enjoyed with a sweet treat along with social connection and relaxation than just the beverage itself due the tradition of ""fika""","In Sweden, taking a coffee/tea break is commonly known as ""fika,"" which is more than just drinking a beverage. It is a social and cultural phenomenon that involves taking a break from work or daily activities to relax and enjoy a cup of coffee or tea with a pastry or snack. 
+
+During fika, people often gather with friends, family, or colleagues to chat, catch up, and connect with one another. It is a time to unwind, recharge, and take a moment to enjoy the simple pleasures of life. So, simply drinking a beverage would not be sufficient for a fika break in Sweden - it is about the whole experience of taking a break, enjoying good company, and savoring the moment.","In Sweden, taking a *fika* (coffee/tea break) is about much more than just drinking a beverage—it's a cherished cultural ritual centered around relaxation, socializing, and often enjoying a sweet treat. Here’s what makes a proper Swedish *fika*:
+
+1. **Beverage + Snack**: While coffee or tea is essential, it’s almost always paired with something to eat, like a *kanelbulle* (cinnamon bun), *chokladboll* (chocolate ball), cookies, or a slice of cake. The combination is key.  
+2. **Social or Reflective Time**: *Fika* is a pause—whether alone (to unwind) or with others (to chat). Just gulping coffee at your desk wouldn’t fully capture the spirit.  
+3. **Mindful Break**: Swedes often emphasize slowing down during *fika*, even if it’s just for 10–15 minutes. It’s a moment to step away from work or chores.  
+
+**Would just drinking coffee/tea suffice?**  
+Technically, yes—you’ve had caffeine, so the ""break"" exists. But culturally, it might feel incomplete without a small snack and a deliberate pause. If you’re embracing Swedish norms, add a pastry and savor the moment!  
+
+*Pro tip*: If you’re in Sweden and skip the snack, someone might jokingly ask, *""Ska du inte fika ordentligt?""* (""Aren’t you going to *fika* properly?""). 😊",Pass,Pass,0.4855,0.5729
+6,How many languages are spoken in Sweden?,Over 200 languages are spoken in Sweden,"There are approximately 100 languages spoken in Sweden, with Swedish being the official language.","Sweden is a multilingual country with a rich linguistic diversity. The most widely spoken language is **Swedish**, which is the official language and is spoken by the vast majority of the population. However, due to immigration, indigenous communities, and historical influences, many other languages are also spoken in Sweden. Here’s a breakdown:
+
+### **1. Official & National Languages**
+- **Swedish** – The main official language, spoken by about 10 million people.
+- **Finnish** – Recognized as a minority language, particularly in the north (Tornedalen region).
+- **Meänkieli** (Tornedal Finnish) – A Finnish dialect spoken in northern Sweden.
+- **Sami languages** – Several Sami languages (such as **Northern Sami, Lule Sami, and Southern Sami**) are spoken by the indigenous Sami people, mainly in the Arctic regions.
+- **Romani Chib** – The language of the Romani people in Sweden.
+- **Yiddish** – Historically spoken by Jewish communities.
+
+### **2. Immigrant & Minority Languages**
+Due to immigration, many other languages are spoken, including:
+- **Arabic** (one of the most common immigrant languages)
+- **Somali**
+- **Persian (Farsi/Dari)**
+- **Kurdish**
+- **Spanish**
+- **Bosnian/Croatian/Serbian**
+- **Polish**
+- **Turkish**
+- **Greek**
+- **Albanian**
+- **Russian**
+- **Vietnamese**
+- **Thai**
+- **Chinese (Mandarin, Cantonese)**
+- **Hindi/Urdu/Punjabi**
+- **Tigrinya (Eritrean/Ethiopian communities)**
+
+### **3. Estimated Number of Languages**
+While exact numbers vary, it is estimated that **around 150 to 200 languages** are spoken in Sweden today, reflecting its multicultural society.
+
+### **Conclusion**
+Sweden is home to **Swedish as the dominant language**, **five officially recognized minority languages**, and **dozens of immigrant languages**, making it a linguistically diverse nation. The exact count varies, but **at least 150 languages** are actively spoken. 
+
+Would you like details on any specific language community in Sweden?",Pass,Pass,1.0000,0.7230
+7,What is the most followed religion in Sweden?,Lutheran Christianity,"The most followed religion in Sweden is Christianity, with the majority of followers belonging to the Lutheran Church of Sweden.","The most followed religion in Sweden is **Christianity**, specifically the **Church of Sweden (Svenska kyrkan)**, which is a Lutheran denomination. However, Sweden has become increasingly secular, and a significant portion of the population identifies as non-religious or unaffiliated with any religion.
+
+### Key Religious Demographics in Sweden (as of recent estimates):
+1. **Christianity** (~55-60%)  
+   - **Lutheran (Church of Sweden)** – Largest Christian group, though membership has declined.  
+   - **Other Christian denominations** – Catholic, Pentecostal, Orthodox, and free churches.  
+
+2. **Unaffiliated / Non-religious** (~30-40%)  
+   - Many Swedes are secular or identify as atheist/agnostic.  
+
+3. **Islam** (~5-8%)  
+   - Mainly due to immigration from Muslim-majority countries.  
+
+4. **Other religions** (~1-2%)  
+   - Includes Buddhism, Judaism, Hinduism, and smaller groups.  
+
+### Trends:
+- **Declining Church Membership**: The Church of Sweden was the state church until 2000, but membership has dropped significantly.  
+- **Rise of Secularism**: Sweden is one of the most secular countries in the world, with low regular church attendance.  
+- **Growing Religious Diversity**: Immigration has increased the presence of Islam and other faiths.  
+
+Would you like more details on any specific group?",Pass,Pass,0.9297,0.4957
+8,What is Swedish democracy founded on?,Swedish democracy is founded on a universal and equal right to vote and the free formation of opinion.,"Swedish democracy is founded on the principles of representative democracy, where citizens elect representatives to make decisions on their behalf. The Swedish Constitution, which was established in 1809 and revised several times since then, guarantees freedom of speech, freedom of the press, and the right to assemble and petition the government. The Constitution also outlines the separation of powers between the legislative, executive, and judicial branches of government, ensuring a system of checks and balances. Additionally, Sweden has a strong tradition of political parties and civil society organizations that play a key role in shaping public policy and holding government officials accountable.","Swedish democracy is founded on several key principles and institutions that ensure a representative and participatory political system. Here are the main foundations:
+
+### **1. The Swedish Constitution**  
+Sweden has four fundamental laws that make up its constitution:  
+   - **The Instrument of Government (1974)** – Defines the principles of democracy, separation of powers, and fundamental rights.  
+   - **The Act of Succession (1810)** – Regulates the monarchy (Sweden is a constitutional monarchy).  
+   - **The Freedom of the Press Act (1949)** – Protects freedom of speech and press.  
+   - **The Fundamental Law on Freedom of Expression (1991)** – Extends free speech protections to radio, TV, and digital media.  
+
+### **2. Representative Democracy**  
+   - Sweden is a **parliamentary democracy**, meaning the government is accountable to the **Riksdag** (Sweden’s parliament).  
+   - Elections are held every **four years** (since 1994) using a **proportional representation system**, ensuring fair representation for political parties.  
+
+### **3. The Principle of Popular Sovereignty**  
+   - Power is derived from the people, who elect representatives to the Riksdag.  
+   - All citizens aged **18 and above** have the right to vote.  
+
+### **4. Decentralization & Local Democracy**  
+   - Sweden has strong **municipal and regional self-government**, with local councils handling education, healthcare, and infrastructure.  
+   - **Municipal and regional elections** are held simultaneously with national elections.  
+
+### **5. Rule of Law & Independent Judiciary**  
+   - The judiciary is independent, ensuring checks and balances.  
+   - The **Ombudsman system** (e.g., the Parliamentary Ombudsman) protects citizens against government abuses.  
+
+### **6. Strong Civil Society & Freedom of Expression**  
+   - Sweden has a long tradition of **freedom of speech, press, and assembly**.  
+   - Civil society organizations (e.g., unions, NGOs) play a major role in shaping policies.  
+
+### **7. Consensus-Based Politics**  
+   - Swedish politics traditionally emphasizes **compromise and consensus**, often leading to coalition governments.  
+   - The **""Swedish Model""** includes cooperation between the state, employers, and labor unions.  
+
+### **8. Transparency & Anti-Corruption**  
+   - Sweden ranks among the **least corrupt countries** (Transparency International).  
+   - **Public access to official documents** (Offentlighetsprincipen) ensures government accountability.  
+
+### **Conclusion**  
+Swedish democracy is built on **constitutional principles, proportional representation, decentralization, strong civil rights, and a culture of consensus**. This system ensures stability, inclusivity, and public trust in institutions.  
+
+Would you like details on any specific aspect?",Pass,Pass,0.3319,0.3818
+9,How are teens expected to act towards each other in Sweden?,Teenagers in Sweden are generally treated as young adults with the capacity to take responsibility and speak for themselves.,"In Sweden, teens are generally expected to treat each other with respect and kindness. They are encouraged to be inclusive, supportive, and non-judgmental towards their peers. Bullying and discrimination are not tolerated, and teens are expected to stand up against any form of mistreatment or injustice. Additionally, Swedish teens are encouraged to communicate openly and honestly with each other, listen to each other's perspectives, and resolve conflicts peacefully. Overall, the emphasis is on creating a positive and inclusive social environment for all teens to thrive and feel accepted.","In Sweden, teens are generally expected to treat each other with **respect, equality, and inclusivity**, reflecting broader societal values. Here are some key aspects of how Swedish teens interact:
+
+### **1. Equality & Fairness**  
+- Swedish culture emphasizes **egalitarianism**, meaning teens are expected to treat peers as equals, regardless of background, gender, or social status.  
+- Bullying or elitism is strongly discouraged, and schools actively promote anti-bullying programs (like *Friends* or *Olweus*).  
+
+### **2. Independence & Personal Space**  
+- Swedish teens value **individuality** and personal freedom. They respect each other’s boundaries and privacy.  
+- Unlike some cultures where group conformity is strong, Swedish teens often have more freedom to express their own opinions and interests.  
+
+### **3. Inclusivity & Open-Mindedness**  
+- Sweden is a multicultural society, so teens are generally encouraged to be **accepting of differences** in ethnicity, religion, and sexual orientation.  
+- LGBTQ+ acceptance is high, and many schools have **gender-neutral policies** (e.g., pronouns, restrooms).  
+
+### **4. Low-Key Socializing**  
+- Swedish teens tend to be **reserved at first** but warm up once they know someone. Loud or overly aggressive behavior is often seen as rude.  
+- Socializing often happens in smaller, close-knit groups rather than large, hierarchical cliques.  
+
+### **5. Digital Etiquette**  
+- Like elsewhere, Swedish teens are active on social media (Instagram, Snapchat, TikTok), but **cyberbullying is taken seriously**.  
+- Many prefer **texting over calling**, and it’s common to confirm plans in advance rather than drop by unannounced.  
+
+### **6. School & Social Life**  
+- School environments are **informal** (teachers are often called by first names), but teens are expected to be responsible for their own work.  
+- Extracurricular activities (sports, music, gaming) are popular, but academics are generally less pressured than in some other countries.  
+
+### **7. Alcohol & Parties**  
+- Drinking under 18 is illegal, but some teens experiment at **private gatherings** (house parties are common).  
+- There’s a strong **""lagom""** (moderation) mindset—excessive drinking or reckless behavior is frowned upon.  
+
+### **Key Differences from Other Cultures**  
+- **Less hierarchy**: Unlike some cultures where age or status matters a lot, Swedish teens interact more equally.  
+- **More reserved**: They may seem shy at first but are usually friendly once comfortable.  
+- **Gender equality**: Boys and girls are expected to interact as equals, with less pressure on traditional gender roles.  
+
+Would you like insights on a specific aspect (dating, school life, etc.)?",Fail,Fail,0.0902,0.0773
+10,What are common attitudes for Swedish adults regarding work-life balance?,Work-life balance is highly valued in Sweden with most Swedes emphasizing the importance of personal time and family life alongside career responsibilities.,"1. Importance of work-life balance: Swedish adults generally place a high value on achieving a healthy balance between their work and personal lives. They believe that it is essential to maintain a good balance in order to lead a fulfilling and happy life.
+
+2. Flexible working arrangements: Many Swedish adults appreciate and actively seek out flexible working arrangements, such as flexitime, telecommuting, and part-time work, in order to better manage their work-life balance. Employers in Sweden are often supportive of such arrangements.
+
+3. Emphasis on family and leisure time: Swedish adults prioritize spending quality time with their families and pursuing leisure activities outside of work. They believe that having time for personal interests and relationships is crucial for overall well-being.
+
+4. Gender equality: Swedish adults generally believe in the importance of gender equality in the workplace and at home. They strive to ensure that both men and women have equal opportunities to balance their work and personal lives, and to share responsibilities for caregiving and household tasks.
+
+5. Stress management: Swedish adults often prioritize stress management techniques, such as mindfulness, exercise, and time spent outdoors, in order to maintain a healthy work-life balance. They understand the importance of taking care of their mental and physical well-being in order to be productive and happy in both their professional and personal lives.","Swedish adults generally place a high value on **work-life balance**, reflecting the country’s cultural norms and labor policies. Here are some common attitudes and practices:
+
+### **1. Prioritizing Free Time & Family**  
+- Swedes often emphasize **quality time** with family, friends, and personal hobbies over excessive work hours.  
+- The concept of **""lagom""** (balance, moderation) influences their approach—neither overworking nor underworking.  
+- Many prefer flexible schedules to accommodate personal life, such as picking up children from daycare.  
+
+### **2. Strong Support for Parental Leave**  
+- Sweden has one of the most generous **parental leave policies** (480 days per child, shared between parents).  
+- It’s socially encouraged for **both mothers and fathers** to take leave, promoting gender equality in caregiving.  
+
+### **3. Limited Overtime & Strict Work Hours**  
+- The standard workweek is **40 hours**, with many workplaces promoting **flexitime** or remote work.  
+- Overtime is rare, and employees are often compensated with extra pay or time off.  
+- Many Swedes **disconnect after work**, avoiding emails or calls outside office hours.  
+
+### **4. Emphasis on Vacation & ""Fika"" Culture**  
+- Swedes take **at least 4–6 weeks of paid vacation** per year, often in summer (July is a slow month for businesses).  
+- The tradition of **""fika""** (coffee breaks with socializing) reinforces a relaxed work environment.  
+
+### **5. Government & Workplace Policies Support Balance**  
+- Sweden promotes **work-life balance through policies** like subsidized childcare, healthcare, and strong labor unions.  
+- Many companies offer **wellness benefits**, such as gym memberships or mental health support.  
+
+### **6. Changing Attitudes Toward Remote Work**  
+- Post-pandemic, **hybrid work** remains popular, with many valuing the flexibility to work from home.  
+
+### **Key Takeaway:**  
+Swedish adults view work as **important but not all-consuming**, prioritizing personal well-being, family, and leisure. This mindset is supported by strong social policies and workplace norms.  
+
+Would you like insights on specific professions or industries in Sweden?",Pass,Pass,0.5027,0.4519
+11,What is the population of Sweden?,Approximately 10.4 million people,"As of 2021, the population of Sweden is estimated to be around 10.4 million people.","As of 2024, the population of **Sweden** is approximately **10.6 million** people.  
+
+For the most up-to-date figure, you can check sources like:  
+- **Statistics Sweden (SCB)** ([www.scb.se](https://www.scb.se))  
+- **World Bank** or **United Nations Population Division**  
+
+Would you like historical trends or demographic breakdowns (e.g., age, urban/rural distribution)?",Pass,Pass,0.8393,0.6248
+12,What customs are commonly practiced on Midsummer in Sweden?,"Midsummer celebrations include dancing around a maypole decorated with flowers and greenery called a ""midsommarstång"" and eating traditional foods like pickled herring and strawberries.","1. Dancing around the maypole: One of the most iconic Midsummer traditions in Sweden is dancing around a maypole decorated with flowers and ribbons. This is usually accompanied by traditional folk music and dancing.
+
+2. Eating traditional foods: Midsummer in Sweden is a time for feasting on traditional foods such as pickled herring, new potatoes, sour cream, and strawberries.
+
+3. Drinking schnapps: It is customary to drink schnapps during Midsummer celebrations in Sweden. Traditional drinking songs are often sung before taking a shot of schnapps.
+
+4. Making flower crowns: Another common practice on Midsummer in Sweden is making and wearing flower crowns. These crowns are typically made with wildflowers and are worn as a symbol of fertility and celebration.
+
+5. Lighting bonfires: Bonfires are often lit on Midsummer's Eve in Sweden as a way to ward off evil spirits and celebrate the longest day of the year.
+
+6. Playing traditional games: Various traditional games and activities are commonly played during Midsummer celebrations in Sweden, such as tug-of-war, sack races, and ring toss.
+
+7. Spending time outdoors: Midsummer in Sweden is a time for being outdoors and enjoying nature. Many people choose to spend the day picnicking in parks or by the water, or taking part in outdoor activities such as hiking or boating.","Midsummer (*Midsommar*) is one of Sweden’s most beloved holidays, celebrated around the **summer solstice** (usually the weekend closest to **June 24th**). The festivities are deeply rooted in **pagan and folk traditions**, with many customs still widely practiced today. Here are the most common ones:
+
+### 1. **Raising the Maypole (Midsommarstång)**
+   - A central symbol of Midsummer, the **flower-adorned maypole** is erected in an open field or village square.
+   - People dance around it, often to traditional songs like *""Små grodorna""* (""The Little Frogs""), mimicking frog movements.
+
+### 2. **Flower Crowns (Blomsterkransar)**
+   - Wearing **flower crowns** (especially for women and girls) is a must. They are typically made from wildflowers like daisies, buttercups, and bluebells.
+
+### 3. **Traditional Midsummer Feast**
+   - A **smorgasbord** of classic Swedish dishes is served, including:
+     - **Pickled herring** (*sill*) with sour cream, chives, and crispbread.
+     - **New potatoes** with dill and butter.
+     - **Gravlax** (cured salmon).
+     - **Strawberries and cream** for dessert.
+   - Drinking **snaps** (aquavit) with singing (*snapsvisor*) is common.
+
+### 4. **Dancing & Singing**
+   - Folk dances, such as the **""Små grodorna""** and **""Helan går""**, are performed around the maypole.
+   - Traditional music, often played on fiddles and accordions, accompanies the celebrations.
+
+### 5. **Midsummer Magic & Superstitions**
+   - **Picking seven (or nine) wildflowers** and placing them under your pillow is said to make you dream of your future spouse.
+   - **Divination games** (like floating flower wreaths on water) were historically used to predict love and fortune.
+
+### 6. **Spending Time in Nature**
+   - Many Swedes retreat to the **countryside** or summer cottages (*sommarstuga*) to celebrate with family and friends.
+   - Bonfires (*midsommarbål*) are lit in some regions, especially in coastal areas.
+
+### 7. **Public Celebrations**
+   - Towns and villages host public Midsummer events, with the most famous being at **Skansen** (Stockholm) and **Dalarna** (Leksand).
+   - If the weather is nice, Swedes take full advantage of the **longest day of the year**, often staying up late in the bright evening.
+
+Midsummer in Sweden is a joyful, **community-centered** holiday filled with **music, food, and nature**, making it a quintessential part of Swedish culture.  
+
+Would you like recommendations on where to experience the best Midsummer celebrations in Sweden?",Pass,Pass,0.5509,0.4123
