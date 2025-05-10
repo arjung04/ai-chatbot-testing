@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chatbot Testing</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body class="bg-dark text-light">
+    <div class="container py-4">
+        <h1 class="mb-4 text-center">AI Chatbot API Testing Framework</h1>
+
+        <!-- Category Selection -->
+        <div class="row mb-4">
+            <div class="col-md-6 offset-md-3">
+                <div class="card bg-secondary">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Select Test Category</h5>
+                    </div>
+                    <div class="card-body">
+                        <select id="categorySelect" class="form-select mb-3">
+                            {% for category in categories %}
+                            <option value="{{ category }}">{{ category|replace('_', ' ')|title }}</option>
+                            {% endfor %}
+                        </select>
+                        <button id="startTestBtn" class="btn btn-primary">Start Testing</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Test Progress -->
+        <div id="testProgress" class="row mb-4 d-none">
+            <div class="col-md-8 offset-md-2">
+                <div class="card bg-secondary">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Test Progress</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="progress mb-3">
+                            <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated"
+                                role="progressbar" style="width: 0%"></div>
+                        </div>
+                        <p id="progressText" class="text-center">0 of 0 tests completed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Current Test Case -->
+        <div id="currentCase" class="row mb-4 d-none">
+            <div class="col-md-10 offset-md-1">
+                <div class="card bg-secondary">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Current Case</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <!-- Left Panel - Test Question -->
+                            <div class="col-md-5">
+                                <div class="card mb-2 bg-dark">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">Current Case</h6>
+                                    </div>
+                                    <div class="card-body">
+                                        <p id="currentQuestion"></p>
+                                        <hr>
+                                        <div id="workArea" class="text-secondary"></div>
+                                    </div>
+                                </div>
+                                <div class="card bg-dark">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">Expected Answer</h6>
+                                    </div>
+                                    <div class="card-body">
+                                        <p id="expectedAnswer"></p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Right Panel - API Responses -->
+                            <div class="col-md-7">
+                                <!-- ChatGPT Response -->
+                                <div class="card mb-2 bg-dark">
+                                    <div class="card-header d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+                                                alt="ChatGPT Logo" width="30" class="me-2">
+                                            <span>ChatGPT Response</span>
+                                        </div>
+                                        <div id="chatgptResult" class="badge bg-success d-none">Correct</div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="chatgptResponse">
+                                            <div class="d-flex justify-content-center">
+                                                <div id="chatgptLoader" class="spinner-border text-light d-none"
+                                                    role="status">
+                                                    <span class="visually-hidden">Loading...</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- DeepSeek Response -->
+                                <div class="card bg-dark">
+                                    <div class="card-header d-flex justify-content-between align-items-center">
+                                        <div>
+                                            <img src="https://seeklogo.com/images/D/deepseek-logo-3AC87C77DC-seeklogo.com.png"
+                                                alt="DeepSeek Logo" width="30" class="me-2">
+                                            <span>DeepSeek Response</span>
+                                        </div>
+                                        <div id="deepseekResult" class="badge bg-danger d-none">Incorrect</div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div id="deepseekResponse">
+                                            <div class="d-flex justify-content-center">
+                                                <div id="deepseekLoader" class="spinner-border text-light d-none"
+                                                    role="status">
+                                                    <span class="visually-hidden">Loading...</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Summary Results (shown when testing completes) -->
+        <div id="summaryResults" class="row d-none">
+            <div class="col-md-8 offset-md-2">
+                <div class="card bg-secondary">
+                    <div class="card-header">
+                        <h5 class="card-title mb-0">Test Summary</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card bg-dark">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">ChatGPT</h6>
+                                    </div>
+                                    <div class="card-body text-center">
+                                        <h3 id="chatgptPassRate">0%</h3>
+                                        <p id="chatgptPassCount">0 / 0 correct</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card bg-dark">
+                                    <div class="card-header">
+                                        <h6 class="mb-0">DeepSeek</h6>
+                                    </div>
+                                    <div class="card-body text-center">
+                                        <h3 id="deepseekPassRate">0%</h3>
+                                        <p id="deepseekPassCount">0 / 0 correct</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

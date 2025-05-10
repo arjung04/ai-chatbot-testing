@@ -1,0 +1,67 @@
+body {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.bg-secondary {
+    background-color: #2c3034 !important;
+}
+
+.bg-dark {
+    background-color: #212529 !important;
+}
+
+/* Response Cards */
+#currentCase .card-body {
+    min-height: 150px;
+}
+
+/* Badge Styles */
+.badge.bg-success {
+    background-color: #198754 !important;
+}
+
+.badge.bg-danger {
+    background-color: #dc3545 !important;
+}
+
+/* Progress Bar */
+.progress {
+    height: 10px;
+    background-color: #343a40;
+}
+
+.progress-bar {
+    background-color: #0d6efd;
+}
+
+/* Work Area */
+#workArea {
+    font-family: monospace;
+    white-space: pre-wrap;
+}
+
+/* Response Areas */
+#chatgptResponse,
+#deepseekResponse {
+    white-space: pre-wrap;
+    min-height: 100px;
+}
+
+/* Logo Styles */
+.card-header img {
+    height: 24px;
+    width: auto;
+    vertical-align: middle;
+}
